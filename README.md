@@ -20,10 +20,6 @@ A MATLAB-based GUI application for interactive data analysis. Load your dataset,
 
 Check the `data/` folder for a `sample_data.csv` file.
 
-## Screenshots
-
-![Dashboard Screenshot](screenshot.png)
-
 ## License
 
 MIT License
