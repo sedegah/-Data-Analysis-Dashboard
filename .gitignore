@@ -1,0 +1,29 @@
+# MATLAB temporary and backup files
+*.asv
+*.m~ 
+*.mlx~
+*.fig~
+*.bak
+
+# Simulink autosave and cache files
+*.slxc
+*.slx.autosave
+*.mdl.autosave
+
+# Crash dumps and logs
+matlab_crash_dump.*
+junit*.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User settings
+*.prj
+*.mproj
+*.matlab
+*.mlappinstall
+
+# MATLAB code analysis
+codegen/
+html/
